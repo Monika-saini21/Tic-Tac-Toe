@@ -33,6 +33,8 @@ body{
     border-radius: 1rem;
     border: none;
     font-size: 8vmin;
+    background: white;
+    color: #000;
 }
 
 #reset-btn{
